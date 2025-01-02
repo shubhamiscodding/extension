@@ -36,4 +36,5 @@
 
 Thank you for using **Website Popup Manager**! 🚀
 
-[Link Text]((https://www.linkedin.com/feed/update/urn:li:activity:7280438384026701825/))
+[View LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7280438384026701825/)
+
